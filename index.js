@@ -5,7 +5,7 @@ let yellow= Math.floor((Math.random() * 3));
 let gamestate="start";
 let curr="red";
 let level=1;
-
+/* This is Shree ganesha of my first game*/
 document.getElementsByClassName("green")[0].addEventListener("click",()=>{
     buttonAnimation("green");
     check_mode("green");
